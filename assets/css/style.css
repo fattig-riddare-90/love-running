@@ -92,6 +92,7 @@ main {
   background-color: lightgoldenrodyellow;
   /*for main content to take upp all the available space*/
   flex: 1 0 auto;
+  margin-top: 47px;
 }
 
 /*footer*/

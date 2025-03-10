@@ -109,8 +109,8 @@ footer {
     display: block;
     position: relative;
     box-shadow: none;
-   width: fit-content;
-   padding-right: 1rem;
+    width: fit-content;
+    padding-right: 1rem;
   }
   #menu {
     display: flex;
@@ -127,5 +127,9 @@ footer {
     line-height: 75px; 
     margin: 0 0.5rem;
 }
-
+    /*main content*/
+  main {
+        /*to push main content down to accomodate larger heading*/
+    margin-top: 95px;
+    }
 }

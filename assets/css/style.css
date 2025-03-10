@@ -1,0 +1,24 @@
+/* asterisk wildcard selector, at the top in order to be able to override whenever we need to */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*header*/
+
+header {
+  background-color: lightcoral;
+}
+
+/*main content*/
+
+main {
+  background-color: lightgoldenrodyellow;
+}
+
+/*footer*/
+
+footer {
+  background-color: lightcyan;
+}

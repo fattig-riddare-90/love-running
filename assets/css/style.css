@@ -105,6 +105,12 @@ main {
   list-style-type: none;
 }
 
+#social-networks i {
+  font-size: 160%;
+  padding: 5%;
+  color: #3a3a3a;
+}
+
 /* media query for tablet and larger devices */
 
 @media screen and (min-width: 768px) {

@@ -97,8 +97,12 @@ main {
 
 /*footer*/
 
-footer {
-  background-color: lightcyan;
+#social-networks {
+  test-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
 
 /* media query for tablet and larger devices */
